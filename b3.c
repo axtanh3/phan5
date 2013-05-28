@@ -8,7 +8,7 @@ void inMT(int* arr, int m, int n);
 
 int main(void)
 {
-  int m, n, mt1[100][100], mt2[100][100], mt3[100][100];
+  	int m, n, mt1[100][100], mt2[100][100], mt3[100][100];
 	int* a, *b, *c;
 	a = (int*) mt1;
 	b = (int*) mt2;
