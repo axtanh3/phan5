@@ -8,7 +8,7 @@ void inMT(matran MT, int m, int n);
 
 int main(void)
 {
-  int i, m, n, max[100];
+  	int i, m, n, max[100];
 	matran MT;
 	m = 3; n = 2;
 	
